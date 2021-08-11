@@ -1,7 +1,7 @@
-# Homework Assignment 2 - Professional Portfolio
+# Homework Assignment 8 - Professional Materials
 
 ## Your Task:
-This assignment required us to make a Portfolio to showcase current and future completed applications. Our website had to be responsive to different screen sizes, had to include working links & pseudoclasses such as hover and working images. 
+This assignment required us to revisit the Portfolio we made in Homework Assignment #2 (https://egraham96.github.io/homework-assignment-02/). In Homework Assignment #2, we were asked to built a Portfolio that would showcase our completed applications. At the time, our website had to be responsive to different screen sizes, had to include working links & pseudoclasses such as hover and working images. Since completing Homework Assignment #2, I have learned Javascript, jQuery, jQuery UI, Bootstrap, Node.JS, and Web APIS--these new languages are reflected in the 4 projects I added to the Portfolio. I also added screenshots & links to the 4 new projects. I added my Resume and links to my GitHub & LinkedIn profile. I updated the styling of the page. I made the ReadMe for this Portfolio more comprehensive. 
 
 ## Built With:
 * HTML
